@@ -2,7 +2,7 @@
 
 A simple RESTful API to manage contact details — built with **Flask** and **SQLAlchemy**.
 This project allows you to **store, retrieve, update, and delete contact information** in a database, accessible through easy-to-use HTTP endpoints.
-hkyghtfgd
+
 ---
 
 ##  Features
